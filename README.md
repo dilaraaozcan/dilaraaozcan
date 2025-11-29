@@ -1,4 +1,3 @@
-# 🧑‍💻 Yazılım & MBG Öğrencisi • Java Öğreniyorum
 # 👋 Merhaba, ben Dilara Özcan
 
 Yazılım Mühendisliği ve Moleküler Biyoloji & Genetik alanlarında eğitim alan, disiplinler arası çalışan bir öğrenciyim.  
