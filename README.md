@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Dilara Özcan
 
-Yazılım Mühendisliği ve Moleküler Biyoloji & Genetik alanlarında eğitim alan, disiplinler arası çalışan bir öğrenciyim.  
+Yazılım Mühendisliği ve Moleküler Biyoloji & Genetik bölümlerinde aynı anda eğitim alan, disiplinler arası çalışan bir öğrenciyim.  
 Java temelleri, algoritmalar ve problem çözme üzerine çalışıyorum. Aynı zamanda biyoinformatik, yapay zeka ve veri analizi alanlarına ilgi duyuyorum.  
 GitHub üzerinden düzenli pratik yaparak kendimi geliştirmeyi hedefliyor, küçük konsol projeleri ile öğrendiklerimi pekiştiriyorum.
 Amacım, biyoloji ve yazılımı birleştiren projeler geliştirerek her iki alandaki bilgimi gerçek dünyaya aktarabilmek.
