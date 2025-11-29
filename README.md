@@ -36,13 +36,10 @@ GitHub üzerinden düzenli pratik yaparak kendimi geliştirmeyi hedefliyor, kü�
 ---
 
 ## 📊 GitHub İstatistiklerim
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dilaraaozcan&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dilaraaozcan&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dilaraaozcan&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dilaraaozcan&layout=compact&theme=tokyonight)
 
 ---
 
