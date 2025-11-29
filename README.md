@@ -42,9 +42,9 @@ Amacım, biyoloji ve yazılımı birleştiren projeler geliştirerek her iki ala
 ### 📊 GitHub İstatistiklerim
 
 
-![Dilara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilaraaozcan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dilaraaozcan&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilaraaozcan&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dilaraaozcan&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dilaraaozcan&theme=tokyonight)
 
