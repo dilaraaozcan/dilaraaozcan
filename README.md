@@ -41,10 +41,12 @@ Amacım, biyoloji ve yazılımı birleştiren projeler geliştirerek her iki ala
 
 ### 📊 GitHub İstatistiklerim
 
-<img src="https://github-readme-stats.vercel.app/api?username=dilaraaozcan&show_icons=true&theme=default" width="480"/>
+[<img src="https://github-readme-stats.vercel.app/api?username=dilaraaozcan&show_icons=true&theme=default" width="480"/>](https://github-readme-stats.vercel.app/api?username=dilaraaozcan
+)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilaraaozcan&layout=compact&theme=default" width="380"/>
-
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilaraaozcan&layout=compact&theme=default" width="380"/>
+](https://github-readme-stats.vercel.app/api/top-langs/?username=dilaraaozcan
+)
 
 ---
 
