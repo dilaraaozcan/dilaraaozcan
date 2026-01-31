@@ -19,7 +19,7 @@ My goal is to develop projects that combine biology and software, and to apply m
 ---
 
 ## 📚 Current Focus Areas
-- Java syntax  
+- Java/python syntax  
 - Variables and data types  
 - If–Else statements  
 - Loops (for – while)  
