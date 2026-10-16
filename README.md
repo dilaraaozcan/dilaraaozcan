@@ -52,9 +52,9 @@ My primary motivation is bridging the gap between life sciences and computer sci
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dilaraaozcan&show_icons=true&theme=tokyonight&hide_border=true" alt="Dilara's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dilaraaozcan&show_icons=true&theme=tokyonight&hide_border=true" alt="Dilara's GitHub Stats" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dilaraaozcan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilaraaozcan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=dilaraaozcan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
